@@ -14,9 +14,11 @@ You can easily read&Modify codes and make them to more professional !
 
 
 
-# Run project
-1) npm install
-2) npm start 
+## Run project
+1) git clone https://github.com/iamyahia/DarkSky-WeCode.git
+2) cd ./DarkSky-WeCode
+3) npm install
+4) npm start 
 
 
 # Made By: [Yahia](https://www.instagram.com/yahiahbaiz)
