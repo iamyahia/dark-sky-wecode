@@ -1,6 +1,6 @@
 # (DarkSky) template
 ## Demo
-Here is a working live demo: [Live Site ](https://google.com)
+Here is a working live demo: [Live Site ](https://darksk-wecode.netlify.app/)
 
 
 ![Daco_294981 (2)](https://user-images.githubusercontent.com/90482598/157772600-eeda8c46-6765-4bc8-84b3-85b7869fc580.png)
